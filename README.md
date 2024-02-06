@@ -1,4 +1,4 @@
-### Hi there 👋,I'm Rakshith G
+# Hi there 👋,I'm Rakshith G
 
 #### A passionate Software Developer 
 
