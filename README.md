@@ -1,6 +1,6 @@
-  ##        Hi there 👋,I'm Rakshith G
+  ##        Hi👋,I'm Rakshith G
 
-   ####     A passionate Software Developer 
+   ####                                          A passionate Software Developer 
 
 - 🔭 I’m currently working on Machine Learning Project
 - 🌱 I’m currently learning Deep Learning And Generative AI
