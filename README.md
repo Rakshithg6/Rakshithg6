@@ -31,6 +31,8 @@
 
 ![Rakshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakshithg6&show_icons=true&theme=radical)
 
+### Top Languages Used:
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshithg6&layout=compact&theme=radical)
 
 ### GitHub Trophies:
