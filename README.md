@@ -26,6 +26,18 @@
 <img align="left" alt="Tensorflow" width="50px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="keras" width="50px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" />
 
+
+### GitHub Stats:
+
+![Rakshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakshithg6&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshithg6&layout=compact&theme=radical)
+
+### GitHub Trophies:
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rakshithg6&theme=radical)
+
+
           
           
 
