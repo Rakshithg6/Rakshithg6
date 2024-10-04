@@ -37,7 +37,7 @@
 
 
 
-### GitHub Stats:
+## GitHub Stats:
 
 ![Rakshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakshithg6&show_icons=true&theme=radical)
 
