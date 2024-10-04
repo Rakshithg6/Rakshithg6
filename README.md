@@ -8,3 +8,5 @@
 - 🖥All of my Projects are available on [GitHub](https://github.com/Rakshithg6)
 - 📫 How to reach me: [Email](mailto:rakshithg.6113@gmail.com)
 
+### Languages and Tools:
+<img align="left" alt="Python" width="30px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
