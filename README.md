@@ -2,11 +2,14 @@
 
    ### A passionate Software Developer
 
-- 🔭 I’m currently working on Deep Learning Project
+![Profile views](https://komarev.com/ghpvc/?username=Rakshithg6&label=Profile%20views&color=0e75b6&style=flat)
+
+- 🛰️ I’m currently working on a AI Project
 - 🌱 I’m currently learning Generative AI
-- 💬 Ask me about Python Programming , Machine Learning , C++ ,Java , C
-- 🖥All of my Projects are available on [GitHub](https://github.com/Rakshithg6)
+- 💬 Ask me about **Python Programming, Machine Learning, C++, Java, C**
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/Rakshithg6)
 - 📫 How to reach me: [Email](mailto:rakshithg.6113@gmail.com)
+
 
 ### Languages and Tools:
 
