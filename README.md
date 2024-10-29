@@ -1,6 +1,10 @@
+<div align="center">
+  
   ##        Hi👋,I'm Rakshith G
 
-   ### A passionate Software Developer
+   ### A passionate AI Developer
+
+   </div>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Rakshithg6&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -10,6 +14,13 @@
 - 📄  Check out my resume here - [My Resume](https://drive.google.com/file/d/15f7z-uZKMRVldCgaNKyf1dq1_aG-kUI4/view?usp=sharing)
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/Rakshithg6)
 - 📫 How to reach me: [Email](mailto:rakshithg.6113@gmail.com)
+
+
+## GitHub Stats
+
+![Rakshith G's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakshithg6&show_icons=true&theme=dark&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rakshithg6)
 
 
 ### Languages and Tools:
@@ -34,19 +45,6 @@
 
 <br>
 </br>
-
-
-###  Github Stats
-
-![Rakshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakshithg6&show_icons=true&theme=radical)
-
-### Top Languages Used:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshithg6&layout=compact&theme=radical)
-
-### GitHub Trophies:
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rakshithg6&theme=radical)
 
 
           
