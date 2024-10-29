@@ -9,7 +9,7 @@
 
 - 🛰️ I’m currently working on a AI Project
 - 🌱 I’m currently learning Generative AI
-- 💬 Ask me about **Python Programming, Machine Learning, C++, Java, C**
+- 💬 Ask me about **Python Programming, Machine Learning, Deep Learning**
 - 📄  Check out my resume here - [My Resume](https://drive.google.com/file/d/15f7z-uZKMRVldCgaNKyf1dq1_aG-kUI4/view?usp=sharing)
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/Rakshithg6)
 - 📫 How to reach me: [Email](mailto:rakshithg.6113@gmail.com)
