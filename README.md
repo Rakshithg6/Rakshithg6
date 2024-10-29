@@ -1,6 +1,6 @@
 <div align="center">
   
-  ##        Hi👋,I'm Rakshith G
+  #        Hi👋,I'm Rakshith G
    ###     A passionate AI Developer
 
    </div>
