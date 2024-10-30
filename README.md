@@ -56,27 +56,11 @@
 
 <a href="https://buymeacoffee.com/rakshithg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;"></a>
 
+## Support My GitLab Projects 🚀
 
+If you enjoy my work and want to support me, feel free to check out my GitLab and follow my projects!
 
-
-
-
-          
-          
-
-          
-
-
-          
-
-          
-
-
-          
-
-          
-
-          
+<a href="https://gitlab.com/Rakshithg6" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>         
 
           
 
