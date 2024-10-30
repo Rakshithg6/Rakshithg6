@@ -47,6 +47,8 @@
 ![LangChain](https://img.shields.io/badge/LangChain-%230096FF.svg?style=flat&logo=langchain&logoColor=white) 
 ![Gemini](https://img.shields.io/badge/Gemini-%23FF4713.svg?style=flat&logo=gemini&logoColor=white) 
 ![Tesseract](https://img.shields.io/badge/Tesseract-%2303A9F4.svg?style=flat&logo=tesseract&logoColor=white) 
+![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?style=flat&logo=gitlab&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
 
 
