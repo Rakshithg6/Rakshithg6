@@ -7,8 +7,15 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Rakshithg6&label=Profile%20views&color=0e75b6&style=flat)
 
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/Rakshithg6)
-- 📫 How to reach me: [Email](mailto:rakshithg.6113@gmail.com)
+
+👨‍💻 I’m a **AI Developer**, with a strong focus on **Machine Learning**, **Deep Learning**, and **Artificial Intelligence**. Passionate about applying cutting-edge technologies to solve complex real-world problems.
+
+🌱 Always honing my skills in **Data Science** and **AI-driven solutions**, while continuously exploring innovative ways to tackle dynamic challenges in the tech space.
+
+🧠 A coding enthusiast with a **strong foundation in problem-solving** and algorithms
+
+💡 Constantly learning, experimenting, and evolving in the ever-changing tech landscape.
+
 
 
 ## GitHub Stats :
@@ -45,6 +52,8 @@
 ![Tesseract](https://img.shields.io/badge/Tesseract-%2303A9F4.svg?style=flat&logo=tesseract&logoColor=white) 
 ![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?style=flat&logo=gitlab&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
+
+
 
 
 
