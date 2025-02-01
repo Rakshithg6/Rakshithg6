@@ -7,7 +7,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Rakshithg6&label=Profile%20views&color=0e75b6&style=flat)
 
-- 📄  Check out my resume here - [My Resume](https://drive.google.com/file/d/1UzP7YCr_O1wvuGyiWh8vd2IHUKVGufgw/view?usp=sharing)
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/Rakshithg6)
 - 📫 How to reach me: [Email](mailto:rakshithg.6113@gmail.com)
 
