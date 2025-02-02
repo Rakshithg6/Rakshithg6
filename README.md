@@ -4,6 +4,8 @@
    ###        AI Developer
 
    </div>
+   
+![Your GIF](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Rakshithg6&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -16,6 +18,7 @@
 
 💡 Constantly learning, experimenting, and evolving in the ever-changing tech landscape.
 
+![Your GIF](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 ## Languages and Tools :
 
@@ -44,7 +47,6 @@
 ![Tesseract](https://img.shields.io/badge/Tesseract-%2303A9F4.svg?style=flat&logo=tesseract&logoColor=white) 
 ![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?style=flat&logo=gitlab&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
-
 
 
 
