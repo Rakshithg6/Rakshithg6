@@ -17,14 +17,6 @@
 💡 Constantly learning, experimenting, and evolving in the ever-changing tech landscape.
 
 
-
-## GitHub Stats :
-
-![Rakshith G's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakshithg6&show_icons=true&theme=dark&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rakshithg6)
-
-
 ## Languages and Tools :
 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) 
@@ -52,7 +44,6 @@
 ![Tesseract](https://img.shields.io/badge/Tesseract-%2303A9F4.svg?style=flat&logo=tesseract&logoColor=white) 
 ![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?style=flat&logo=gitlab&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
-
 
 
 
