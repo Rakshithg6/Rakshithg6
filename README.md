@@ -20,6 +20,8 @@
 
 ![Your GIF](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
+![Rakshith's Contribution Graph](https://github-readme-stats.vercel.app/api?username=Rakshithg6&show_icons=true&theme=radical&hide=prs,issues,contribs)
+
 ## Languages and Tools :
 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) 
