@@ -16,9 +16,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          config_file: .github/snk-config.yaml
           outputs: |
             output/github-contribution-grid-snake-dark.svg
-          config_file: .github/snk-config.yaml  # use this config!
         env:
           GITHUB_TOKEN: ${{ secrets.CONTRIBUTION_TOKEN }}
 
