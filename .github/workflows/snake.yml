@@ -15,10 +15,13 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_token: ${{ secrets.CONTRIBUTION_TOKEN }}
-          github_user_name: ${{ github.repository_owner }}
+          user_name: ${{ github.repository_owner }}
           output_path: ./output/github-contribution-grid-snake-dark.svg
           color_theme: dark
-          # Add any other customization options here (see documentation)
+          show_activity: true
+          show_activity_streak: true
+          show_total_contributions: true
+          target_branch: main
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
