@@ -1,1 +1,8 @@
-
+theme: dark
+color_snake: #8A2BE2
+color_dots:
+  - "#191919"
+  - "#303030"
+  - "#4D4D4D"
+  - "#808080"
+  - "#FFFFFF"
