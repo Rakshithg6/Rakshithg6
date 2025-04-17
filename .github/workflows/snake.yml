@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -12,16 +12,13 @@ jobs:
       - name: Checkout main
         uses: actions/checkout@v3
       - name: Generate Snake Animation
-        uses: Platane/snk@v3
+        uses: jamesgeorge007/github-readme-github-stats@v4
         with:
-          github_token: ${{ secrets.CONTRIBUTION_TOKEN }}
-          user_name: ${{ github.repository_owner }}
-          output_path: ./output/github-contribution-grid-snake-dark.svg
-          color_theme: dark
-          show_activity: true
-          show_activity_streak: true
-          show_total_contributions: true
-          target_branch: main
+          token: ${{ secrets.CONTRIBUTION_TOKEN }}
+          user: ${{ github.repository_owner }}
+          count_private: "true"
+          include_all_commits: "true"
+          output: output/github-contribution-grid-snake.svg # Note the output filename
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
