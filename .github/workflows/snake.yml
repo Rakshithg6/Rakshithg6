@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate GitHub Profile Contribution Snake
 
 on:
   schedule:
@@ -6,21 +6,16 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout main
-        uses: actions/checkout@v3
-      - name: Generate Snake Animation
-        uses: jamesgeorge007/github-readme-stats@v4  # Corrected action name
-        with:
-          token: ${{ secrets.CONTRIBUTION_TOKEN }}
-          user: ${{ github.repository_owner }}
-          count_private: "true"
-          include_all_commits: "true"
-          output: output/github-contribution-grid-snake.svg
+      - uses: actions/checkout@v3
+      - uses: yogeshbalaji/github-profile-3d-contrib@0.8.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.CONTRIBUTION_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "feat: update github contribution snake"
-          push_options: "--force"
+          branch: main
