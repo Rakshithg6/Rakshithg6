@@ -49,6 +49,7 @@
 ![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?style=flat&logo=gitlab&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
+![Developer](https://media.giphy.com/media/S9d8XB557e8phGLBVS/giphy.gif?cid=ecf05e47rr862re9ar3oa0hheqmrbq113behifyj6rhsu5o7&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
 ## Support Me
