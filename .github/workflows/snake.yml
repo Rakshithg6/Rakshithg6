@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Run every day at midnight
-  workflow_dispatch:      # Allow manual runs
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -18,6 +18,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             output/github-contribution-grid-snake-dark.svg
+          config_file: .github/snk-config-dark.yaml  # custom config file
         env:
           GITHUB_TOKEN: ${{ secrets.CONTRIBUTION_TOKEN }}
 
