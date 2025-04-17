@@ -1,10 +1,13 @@
+# .github/snk-config.yaml
+
+github_user_name: Rakshithg6
+
 theme:
-  name: "dark"
+  # Make sure we set a dark background to avoid white issues
   background: "#0d1117"
-  snake: "#8A2BE2"
-  grid:
-    - "#161b22"
-    - "#21262d"
-    - "#30363d"
-    - "#484f58"
-    - "#8b949e"
+
+  # Snake color (e.g., purple)
+  color_snake: "#8a2be2"
+
+  # Dot contribution colors (fitting for dark mode)
+  color_dots: ["#161b22", "#30363d", "#484f58", "#6e7681", "#8b949e"]
