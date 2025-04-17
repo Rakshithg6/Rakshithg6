@@ -2,5 +2,5 @@ palette:
   background: "transparent"  # Transparent background to show checkered grid
   snake: "#00FF00"          # Green snake
   tail: "#FF00FF"           # Purple tail/food
-  grid: "#D3D3D3"           # Light gray for checkered grid
+  grid: "#000000"          # Light gray for checkered grid
   border: "#1A1A2E"         # Dark border to match the frame
