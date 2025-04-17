@@ -1,7 +1,8 @@
 github_user_name: Rakshithg6
 
 theme:
-  background: "#0d1117"             # GitHub dark mode background
-  color_snake: "#8a2be2"            # Purple snake
-  color_dots: ["#161b22", "#30363d", "#484f58", "#6e7681", "#8b949e"]  # GitHub dark contribution greens
-  transparency: false               # <<< THIS is what was missing!
+  background: "#0d1117" # GitHub dark theme
+  color_snake: "#8a2be2"
+  color_dots: ["#161b22", "#30363d", "#484f58", "#6e7681", "#8b949e"]
+  transparency: false   # Prevent transparency
+  animation: "bouncy"   # Optional: "bouncy" or "smooth"
