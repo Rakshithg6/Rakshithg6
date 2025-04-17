@@ -12,13 +12,13 @@ jobs:
       - name: Checkout main
         uses: actions/checkout@v3
       - name: Generate Snake Animation
-        uses: jamesgeorge007/github-readme-github-stats@v4
+        uses: jamesgeorge007/github-readme-stats@v4  # Corrected action name
         with:
           token: ${{ secrets.CONTRIBUTION_TOKEN }}
           user: ${{ github.repository_owner }}
           count_private: "true"
           include_all_commits: "true"
-          output: output/github-contribution-grid-snake.svg # Note the output filename
+          output: output/github-contribution-grid-snake.svg
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
