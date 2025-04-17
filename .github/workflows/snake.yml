@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: yogeshbalaji/github-profile-3d-contrib@0.8.0
+      - uses: yogeshbalaji/github-profile-3d-contrib@v0.8.0  <-- Corrected action version
         env:
           GITHUB_TOKEN: ${{ secrets.CONTRIBUTION_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
