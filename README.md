@@ -7,7 +7,16 @@
    
 ![Your GIF](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-![Profile views](https://komarev.com/ghpvc/?username=Rakshithg6&label=Profile%20views&color=0e75b6&style=flat)
+   <div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRakshithg6%2FRakshithg6&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+  <br><br>
+<!--   <a href="https://www.showwcase.com/anmol-baranwal"><img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/c9e3761a-08c6-404d-9e27-5cd9d1084773"/></a> -->
+  <a href="https://www.linkedin.com/in/rakshith-g-44306a22a/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Rakshith G" /></a>
+<a href="https://rakshith-portfolio-nu.vercel.app/"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of Rakshith G" /></a>
+<a href="mailto:rakshithg.6113@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Rakshith G i.e.   rakshithg.6113@gmail.com" /></a>
+  <a href="https://x.com/rakshithg_"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username rakshithg_" ></a>
+</div>
+<br>
 
 
 👨‍💻 I’m a **AI Developer**, with a strong focus on **Machine Learning**, **Deep Learning**, and **Artificial Intelligence**. Passionate about applying cutting-edge technologies to solve complex real-world problems.
@@ -49,8 +58,10 @@
 ![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?style=flat&logo=gitlab&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
-![Developer](https://media.giphy.com/media/S9d8XB557e8phGLBVS/giphy.gif?cid=ecf05e47rr862re9ar3oa0hheqmrbq113behifyj6rhsu5o7&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
+<div align="center">
+  <img src="https://media.giphy.com/media/S9d8XB557e8phGLBVS/giphy.gif?cid=ecf05e47rr862re9ar3oa0hheqmrbq113behifyj6rhsu5o7&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Developer">
+</div>
 
 ## 🐍 Contribution Snake Animation 
 
