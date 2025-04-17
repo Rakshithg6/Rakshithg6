@@ -30,4 +30,4 @@ jobs:
           target_branch: output       # Please don't make changes to the main branch, because doing so will erase all previous changes. This has happened to me twice before.
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.CONTRIBUTION_TOKEN }}
