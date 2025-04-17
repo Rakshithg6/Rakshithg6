@@ -14,7 +14,7 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         env:
-          GITHUB_TOKEN: ${{ secrets..CONTRIBUTION_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.CONTRIBUTION_TOKEN }}
           OUTPUT_PATH: ./output/github-contribution-grid-snake-dark.svg
           COLOR_THEME: dark
           # Add any other customization options here (see documentation)
