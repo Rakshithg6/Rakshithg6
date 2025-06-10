@@ -46,16 +46,3 @@
   
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<br>
-<div align="center">
-  <img src="https://media.giphy.com/media/S9d8XB557e8phGLBVS/giphy.gif?cid=ecf05e47rr862re9ar3oa0hheqmrbq113behifyj6rhsu5o7&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Developer">
-</div>
-
-## 🐍 Contribution Snake Animation 
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Rakshithg6/Rakshithg6/refs/heads/main/output/github-contribution-grid-snake-dark.svg)
-
-
-## Support Me
-
-<a href="https://buymeacoffee.com/rakshithg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;"></a>
