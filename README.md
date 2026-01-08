@@ -1,7 +1,7 @@
 <div align="center">
   
   #        Hi👋,I'm Rakshith G
-   ###        AI Developer
+   ###        Software Developer
 
    </div>
    
@@ -19,9 +19,7 @@
 <br>
 
 
-👨‍💻 I’m a **AI Developer**, with a strong focus on **Machine Learning**, **Deep Learning**, and **Artificial Intelligence**. Passionate about applying cutting-edge technologies to solve complex real-world problems.
-
-🌱 Always honing my skills in **Data Science** and **AI-driven solutions**, while continuously exploring innovative ways to tackle dynamic challenges in the tech space.
+👨‍💻 I’m a **Software Developer**, with a strong focus on cutting-edge technologies to solve complex real-world problems.
 
 🧠 A coding enthusiast with a **strong foundation in problem-solving** and algorithms
 
