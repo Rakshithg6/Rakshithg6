@@ -12,7 +12,6 @@
   <br><br>
 <!--   <a href="https://www.showwcase.com/anmol-baranwal"><img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/c9e3761a-08c6-404d-9e27-5cd9d1084773"/></a> -->
   <a href="https://www.linkedin.com/in/rakshith-g-44306a22a/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Rakshith G" /></a>
-<a href="https://rakshith-portfolio-nu.vercel.app/"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of Rakshith G" /></a>
 <a href="mailto:rakshithg.6113@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Rakshith G i.e.   rakshithg.6113@gmail.com" /></a>
   <a href="https://x.com/rakshithg_"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username rakshithg_" ></a>
 </div>
